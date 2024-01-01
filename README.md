@@ -39,4 +39,4 @@ You can click the Preview link to take a look at your changes.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sankaudeshika&" alt="sankaudeshika" /></p>
 ---
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/sankaudeshika"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/sankaudeshika" /></a></p><br>
+<p><a href="https://www.buymeacoffee.com/https://sankaudeshika"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/sankaudeshika" /></a></p><br>
