@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on [Rasika | OFFICIAL](https://sankacurruntprojectone.000webhostapp.com/)
 
-- 🌱 I’m currently learning **Java, Laravel, React Native,**
+- 🌱 I’m currently learning **Java, Laravel, React Native, Arduino, C**
 
 - 💬 Ask me about **PHP, Java Script,**
 
