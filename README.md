@@ -1,14 +1,37 @@
-<!---
-SankaUdeshika/SankaUdeshika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi , I'm Sanka Udeshika <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h1 align="center">Hi 👋, I'm Sanka Udeshika</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Undergraduate+Software+Engineering+Student;3D+modeling;freelancing;Always+learning+new+things"></a>
+</p>
+
 <h3 align="center">I’m interested in Web Development, Mobile Application Development, and develop POS (POINT OF SALE) systems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sankaudeshika&label=Profile%20views&color=0e75b6&style=flat" alt="sankaudeshika" /> </p>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankaudeshika" alt="sankaudeshika" /></a> </p>
+
+<p align="center">
+   <picture><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sankaudeshika&label=Profile%20views&color=0e75b6&style=flat" alt="sankaudeshika" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankaudeshika&theme=juicyfresh" alt="sankaudeshika" /></a> </p>
+
+
+
+
+
+
+
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+
+
+
+
+
 
 - 🔭 I’m currently working on [Rasika | OFFICIAL](https://sankacurruntprojectone.000webhostapp.com/)
 
@@ -32,10 +55,21 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sankaudeshika&show_icons=true&locale=en&layout=compact" alt="sankaudeshika" /></p>
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
+
+
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sankaudeshika&show_icons=true&locale=en" alt="sankaudeshika" /></p>
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sankaudeshika&" alt="sankaudeshika" /></p>
-<center><h3 align="left">Support:</h3></center>
-<center><p><a href="https://www.buymeacoffee.com/sankaudeshika"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sankaudeshika" /></a></p><br></center>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sankaudeshika&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="sankaudeshika" /></p>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sankaudeshika&show_icons=true&locale=en&theme=chartreuse-dark" alt="sankaudeshika" /></p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sankaudeshika&theme=chartreuse-dark" alt="sankaudeshika" /></p>
+<h3 align="center">Support:</h3>
+<p align="center" ><a href="https://www.buymeacoffee.com/sankaudeshika"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sankaudeshika" /></a></p><br>
