@@ -68,7 +68,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sankaudeshika&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="sankaudeshika" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sankaudeshika&show_icons=true&locale=en&theme=chartreuse-dark" alt="sankaudeshika" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sankaudeshika&show_icons=true&locale=en&theme=chartreuse-dark" alt="sankaudeshika" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sankaudeshika&theme=chartreuse-dark" alt="sankaudeshika" /></p>
 <h3 align="center">Support:</h3>
