@@ -33,7 +33,7 @@
 
 
 
-- 🔭 I’m currently working on [Rasika | OFFICIAL](https://sankacurruntprojectone.000webhostapp.com/)
+- 🔭 I’m currently working on [Rasika | OFFICIAL](https://sankaproject.great-site.net/)
 
 - 🌱 I’m currently learning **Java, Laravel, React Native, Arduino, C**
 
